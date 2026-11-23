@@ -1,2 +1,2 @@
 "Bonjour Git!"
-"Deuxieme ligne ajout‚e."
+"Deuxieme lignr ajoutee."
